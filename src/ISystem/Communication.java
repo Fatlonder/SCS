@@ -9,7 +9,7 @@ package ISystem;
 
 /**
  *
- * @author ATQU
+ * @author FA
  */
 import gnu.io.CommPort;
 import gnu.io.CommPortIdentifier;
